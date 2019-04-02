@@ -1,0 +1,3 @@
+[submodule "Octosharp"]
+	path = Octosharp
+	url = https://github.com/michel-carbone/Octosharp.git
